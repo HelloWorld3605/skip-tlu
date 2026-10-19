@@ -1,0 +1,597 @@
+{
+  "courseId": 23946,
+  "name": "ELE1101: Năng lực số và Công nghệ văn phòng",
+  "count": 59,
+  "activities": [
+    {
+      "id": 50883,
+      "module": "lesson",
+      "url": "https://elearning.thanglong.edu.vn/mod/lesson/view.php?id=50883",
+      "name": "GIỚI THIỆU MÔN HỌC",
+      "sectionId": "17907",
+      "sectionName": "Tuần 1. Sử dụng máy tính cơ bản",
+      "completionClass": "completioninfo completion_complete",
+      "completionValue": "2"
+    },
+    {
+      "id": 50886,
+      "module": "lesson",
+      "url": "https://elearning.thanglong.edu.vn/mod/lesson/view.php?id=50886",
+      "name": "[LÝ THUYẾT] NGUYÊN TẮC VIẾT EMAIL CHO GV",
+      "sectionId": "17907",
+      "sectionName": "Tuần 1. Sử dụng máy tính cơ bản",
+      "completionClass": "completioninfo completion_complete",
+      "completionValue": "1"
+    },
+    {
+      "id": 51536,
+      "module": "quiz",
+      "url": "https://elearning.thanglong.edu.vn/mod/quiz/view.php?id=51536",
+      "name": "[LUYỆN TẬP TRẮC NGHIỆM] NGUYÊN TẮC VIẾT EMAIL CHO GV",
+      "sectionId": "17907",
+      "sectionName": "Tuần 1. Sử dụng máy tính cơ bản",
+      "completionClass": "completioninfo completion_complete",
+      "completionValue": "2"
+    },
+    {
+      "id": 50892,
+      "module": "lesson",
+      "url": "https://elearning.thanglong.edu.vn/mod/lesson/view.php?id=50892",
+      "name": "[LÝ THUYẾT] LÀM BẠN VỚI AI",
+      "sectionId": "17907",
+      "sectionName": "Tuần 1. Sử dụng máy tính cơ bản",
+      "completionClass": "completioninfo completion_complete",
+      "completionValue": "1"
+    },
+    {
+      "id": 51537,
+      "module": "quiz",
+      "url": "https://elearning.thanglong.edu.vn/mod/quiz/view.php?id=51537",
+      "name": "[LUYỆN TẬP TRẮC NGHIỆM] LÀM BẠN VỚI AI",
+      "sectionId": "17907",
+      "sectionName": "Tuần 1. Sử dụng máy tính cơ bản",
+      "completionClass": "completioninfo completion_complete",
+      "completionValue": "2"
+    },
+    {
+      "id": 50898,
+      "module": "lesson",
+      "url": "https://elearning.thanglong.edu.vn/mod/lesson/view.php?id=50898",
+      "name": "[LÝ THUYẾT] GIỚI THIỆU CHUNG VỀ WINDOWS 11",
+      "sectionId": "17907",
+      "sectionName": "Tuần 1. Sử dụng máy tính cơ bản",
+      "completionClass": "completioninfo completion_complete",
+      "completionValue": "2"
+    },
+    {
+      "id": 50901,
+      "module": "lesson",
+      "url": "https://elearning.thanglong.edu.vn/mod/lesson/view.php?id=50901",
+      "name": "[LÝ THUYẾT] QUẢN LÝ THƯ MỤC, TỆP TIN",
+      "sectionId": "17907",
+      "sectionName": "Tuần 1. Sử dụng máy tính cơ bản",
+      "completionClass": "completioninfo completion_complete",
+      "completionValue": "2"
+    },
+    {
+      "id": 50904,
+      "module": "lesson",
+      "url": "https://elearning.thanglong.edu.vn/mod/lesson/view.php?id=50904",
+      "name": "[LÝ THUYẾT] ĐIỀU KHIỂN HỆ THỐNG - CONTROL PANEL",
+      "sectionId": "17907",
+      "sectionName": "Tuần 1. Sử dụng máy tính cơ bản",
+      "completionClass": "completioninfo completion_complete",
+      "completionValue": "2"
+    },
+    {
+      "id": 51538,
+      "module": "quiz",
+      "url": "https://elearning.thanglong.edu.vn/mod/quiz/view.php?id=51538",
+      "name": "[LUYỆN TẬP TRẮC NGHIỆM] HỆ ĐIỀU HÀNH WINDOW 11",
+      "sectionId": "17907",
+      "sectionName": "Tuần 1. Sử dụng máy tính cơ bản",
+      "completionClass": "completioninfo completion_complete",
+      "completionValue": "2"
+    },
+    {
+      "id": 51540,
+      "module": "quiz",
+      "url": "https://elearning.thanglong.edu.vn/mod/quiz/view.php?id=51540",
+      "name": "2627.K1.KIỂM TRA TRẮC NGHIỆM TUẦN 1 (Tính điểm KT thường xuyên)",
+      "sectionId": "17907",
+      "sectionName": "Tuần 1. Sử dụng máy tính cơ bản",
+      "completionClass": "completioninfo completion_complete",
+      "completionValue": "1"
+    },
+    {
+      "id": 50910,
+      "module": "feedback",
+      "url": "https://elearning.thanglong.edu.vn/mod/feedback/view.php?id=50910",
+      "name": "ĐÁNH GIÁ TÀI LIỆU LÝ THUYẾT TUẦN 1",
+      "sectionId": "17907",
+      "sectionName": "Tuần 1. Sử dụng máy tính cơ bản",
+      "completionClass": "completioninfo completion_none",
+      "completionValue": "NaN"
+    },
+    {
+      "id": 51541,
+      "module": "quiz",
+      "url": "https://elearning.thanglong.edu.vn/mod/quiz/view.php?id=51541",
+      "name": "2627.K1.HOẠT ĐỘNG TRÊN LỚP TUẦN 1 (Tính điểm chuyên cần)",
+      "sectionId": "17907",
+      "sectionName": "Tuần 1. Sử dụng máy tính cơ bản",
+      "completionClass": "completioninfo completion_none",
+      "completionValue": "NaN"
+    },
+    {
+      "id": 50916,
+      "module": "feedback",
+      "url": "https://elearning.thanglong.edu.vn/mod/feedback/view.php?id=50916",
+      "name": "ĐÁNH GIÁ HOẠT ĐỘNG TRÊN LỚP TUẦN 1",
+      "sectionId": "17907",
+      "sectionName": "Tuần 1. Sử dụng máy tính cơ bản",
+      "completionClass": "completioninfo completion_none",
+      "completionValue": "NaN"
+    },
+    {
+      "id": 50976,
+      "module": "lesson",
+      "url": "https://elearning.thanglong.edu.vn/mod/lesson/view.php?id=50976",
+      "name": "[LÝ THUYẾT] LÀM QUEN VỚI WORD 365",
+      "sectionId": "17910",
+      "sectionName": "Tuần 2. Làm quen với Word và Soạn thảo văn bản",
+      "completionClass": "completioninfo completion_complete",
+      "completionValue": "2"
+    },
+    {
+      "id": 50979,
+      "module": "lesson",
+      "url": "https://elearning.thanglong.edu.vn/mod/lesson/view.php?id=50979",
+      "name": "[LÝ THUYẾT] LÀM QUEN VỚI WORD 365 (TIẾP)",
+      "sectionId": "17910",
+      "sectionName": "Tuần 2. Làm quen với Word và Soạn thảo văn bản",
+      "completionClass": "completioninfo completion_complete",
+      "completionValue": "2"
+    },
+    {
+      "id": 51560,
+      "module": "quiz",
+      "url": "https://elearning.thanglong.edu.vn/mod/quiz/view.php?id=51560",
+      "name": "[THỰC HÀNH TỰ CHẤM ĐIỂM] BÀI TẬP LÀM QUEN VỚI WORD 365",
+      "sectionId": "17910",
+      "sectionName": "Tuần 2. Làm quen với Word và Soạn thảo văn bản",
+      "completionClass": "completioninfo completion_complete",
+      "completionValue": "2"
+    },
+    {
+      "id": 51643,
+      "module": "quiz",
+      "url": "https://elearning.thanglong.edu.vn/mod/quiz/view.php?id=51643",
+      "name": "[LUYỆN TẬP TRẮC NGHIỆM] LÀM QUEN VỚI WORD 365",
+      "sectionId": "17910",
+      "sectionName": "Tuần 2. Làm quen với Word và Soạn thảo văn bản",
+      "completionClass": "completioninfo completion_complete",
+      "completionValue": "2"
+    },
+    {
+      "id": 50985,
+      "module": "lesson",
+      "url": "https://elearning.thanglong.edu.vn/mod/lesson/view.php?id=50985",
+      "name": "[LÝ THUYẾT] SOẠN THẢO VĂN BẢN TIẾNG VIỆT",
+      "sectionId": "17910",
+      "sectionName": "Tuần 2. Làm quen với Word và Soạn thảo văn bản",
+      "completionClass": "completioninfo completion_complete",
+      "completionValue": "2"
+    },
+    {
+      "id": 50988,
+      "module": "lesson",
+      "url": "https://elearning.thanglong.edu.vn/mod/lesson/view.php?id=50988",
+      "name": "[LÝ THUYẾT] SOẠN THẢO VĂN BẢN TIẾNG VIỆT (TIẾP)",
+      "sectionId": "17910",
+      "sectionName": "Tuần 2. Làm quen với Word và Soạn thảo văn bản",
+      "completionClass": "completioninfo completion_complete",
+      "completionValue": "2"
+    },
+    {
+      "id": 51561,
+      "module": "quiz",
+      "url": "https://elearning.thanglong.edu.vn/mod/quiz/view.php?id=51561",
+      "name": "[THỰC HÀNH TỰ CHẤM ĐIỂM] BÀI TẬP SOẠN THẢO VB TIẾNG VIỆT",
+      "sectionId": "17910",
+      "sectionName": "Tuần 2. Làm quen với Word và Soạn thảo văn bản",
+      "completionClass": "completioninfo completion_complete",
+      "completionValue": "2"
+    },
+    {
+      "id": 51646,
+      "module": "quiz",
+      "url": "https://elearning.thanglong.edu.vn/mod/quiz/view.php?id=51646",
+      "name": "[LUYỆN TẬP TRẮC NGHIỆM] SOẠN THẢO VB TIẾNG VIỆT",
+      "sectionId": "17910",
+      "sectionName": "Tuần 2. Làm quen với Word và Soạn thảo văn bản",
+      "completionClass": "completioninfo completion_complete",
+      "completionValue": "2"
+    },
+    {
+      "id": 51543,
+      "module": "quiz",
+      "url": "https://elearning.thanglong.edu.vn/mod/quiz/view.php?id=51543",
+      "name": "2627.K1.KIỂM TRA TRẮC NGHIỆM TUẦN 2 (Tính điểm KT thường xuyên)",
+      "sectionId": "17910",
+      "sectionName": "Tuần 2. Làm quen với Word và Soạn thảo văn bản",
+      "completionClass": "completioninfo completion_incomplete",
+      "completionValue": "0"
+    },
+    {
+      "id": 50994,
+      "module": "feedback",
+      "url": "https://elearning.thanglong.edu.vn/mod/feedback/view.php?id=50994",
+      "name": "ĐÁNH GIÁ TÀI LIỆU LÝ THUYẾT TUẦN 2",
+      "sectionId": "17910",
+      "sectionName": "Tuần 2. Làm quen với Word và Soạn thảo văn bản",
+      "completionClass": "completioninfo completion_none",
+      "completionValue": "NaN"
+    },
+    {
+      "id": 51650,
+      "module": "assign",
+      "url": "https://elearning.thanglong.edu.vn/mod/assign/view.php?id=51650",
+      "name": "KỲ 1_HOẠT ĐỘNG TRÊN LỚP TUẦN 2 (Tính điểm chuyên cần)",
+      "sectionId": "17910",
+      "sectionName": "Tuần 2. Làm quen với Word và Soạn thảo văn bản",
+      "completionClass": "completioninfo completion_none",
+      "completionValue": "NaN"
+    },
+    {
+      "id": 51000,
+      "module": "feedback",
+      "url": "https://elearning.thanglong.edu.vn/mod/feedback/view.php?id=51000",
+      "name": "ĐÁNH GIÁ HOẠT ĐỘNG TRÊN LỚP TUẦN 2",
+      "sectionId": "17910",
+      "sectionName": "Tuần 2. Làm quen với Word và Soạn thảo văn bản",
+      "completionClass": "completioninfo completion_none",
+      "completionValue": "NaN"
+    },
+    {
+      "id": 51014,
+      "module": "lesson",
+      "url": "https://elearning.thanglong.edu.vn/mod/lesson/view.php?id=51014",
+      "name": "[LÝ THUYẾT + BÀI TẬP THỰC HÀNH] ĐỊNH DẠNG TÀI LIỆU CÓ NHIỀU CHƯƠNG, MỤC",
+      "sectionId": "17913",
+      "sectionName": "Tuần 3. Định dạng văn bản có nhiều chương, mục",
+      "completionClass": "completioninfo completion_complete",
+      "completionValue": "1"
+    },
+    {
+      "id": 51017,
+      "module": "assign",
+      "url": "https://elearning.thanglong.edu.vn/mod/assign/view.php?id=51017",
+      "name": "[NỘP BÀI TẬP THỰC HÀNH] ĐỊNH DẠNG TÀI LIỆU CÓ NHIỀU CHƯƠNG, MỤC",
+      "sectionId": "17913",
+      "sectionName": "Tuần 3. Định dạng văn bản có nhiều chương, mục",
+      "completionClass": "completioninfo completion_complete",
+      "completionValue": "1"
+    },
+    {
+      "id": 51023,
+      "module": "lesson",
+      "url": "https://elearning.thanglong.edu.vn/mod/lesson/view.php?id=51023",
+      "name": "[THÔNG SỐ ĐỊNH DẠNG] TÀI LIỆU CÓ NHIỀU CHƯƠNG, MỤC",
+      "sectionId": "17913",
+      "sectionName": "Tuần 3. Định dạng văn bản có nhiều chương, mục",
+      "completionClass": "completioninfo completion_none",
+      "completionValue": "NaN"
+    },
+    {
+      "id": 51026,
+      "module": "lesson",
+      "url": "https://elearning.thanglong.edu.vn/mod/lesson/view.php?id=51026",
+      "name": "MỘT SỐ LƯU Ý KHI ĐỊNH DẠNG BÁO CÁO",
+      "sectionId": "17913",
+      "sectionName": "Tuần 3. Định dạng văn bản có nhiều chương, mục",
+      "completionClass": "completioninfo completion_none",
+      "completionValue": "NaN"
+    },
+    {
+      "id": 51029,
+      "module": "resource",
+      "url": "https://elearning.thanglong.edu.vn/mod/resource/view.php?id=51029",
+      "name": "TIÊU CHÍ CHẤM ĐIỂM BÀI TẬP TUẦN 3",
+      "sectionId": "17913",
+      "sectionName": "Tuần 3. Định dạng văn bản có nhiều chương, mục",
+      "completionClass": "completioninfo completion_none",
+      "completionValue": "NaN"
+    },
+    {
+      "id": 51032,
+      "module": "assign",
+      "url": "https://elearning.thanglong.edu.vn/mod/assign/view.php?id=51032",
+      "name": "[LUYỆN TẬP THỰC HÀNH] TÀI LIỆU CÓ NHIỀU CHƯƠNG, MỤC",
+      "sectionId": "17913",
+      "sectionName": "Tuần 3. Định dạng văn bản có nhiều chương, mục",
+      "completionClass": "completioninfo completion_complete",
+      "completionValue": "1"
+    },
+    {
+      "id": 51567,
+      "module": "quiz",
+      "url": "https://elearning.thanglong.edu.vn/mod/quiz/view.php?id=51567",
+      "name": "[LUYỆN TẬP TRẮC NGHIỆM] TÀI LIỆU CÓ NHIỀU CHƯƠNG, MỤC",
+      "sectionId": "17913",
+      "sectionName": "Tuần 3. Định dạng văn bản có nhiều chương, mục",
+      "completionClass": "completioninfo completion_complete",
+      "completionValue": "2"
+    },
+    {
+      "id": 51545,
+      "module": "quiz",
+      "url": "https://elearning.thanglong.edu.vn/mod/quiz/view.php?id=51545",
+      "name": "2627.K1.KIỂM TRA TRẮC NGHIỆM TUẦN 3 (Tính điểm KT thường xuyên)",
+      "sectionId": "17913",
+      "sectionName": "Tuần 3. Định dạng văn bản có nhiều chương, mục",
+      "completionClass": "completioninfo completion_complete",
+      "completionValue": "1"
+    },
+    {
+      "id": 51038,
+      "module": "feedback",
+      "url": "https://elearning.thanglong.edu.vn/mod/feedback/view.php?id=51038",
+      "name": "ĐÁNH GIÁ TÀI LIỆU LÝ THUYẾT TUẦN 3",
+      "sectionId": "17913",
+      "sectionName": "Tuần 3. Định dạng văn bản có nhiều chương, mục",
+      "completionClass": "completioninfo completion_none",
+      "completionValue": "NaN"
+    },
+    {
+      "id": 51044,
+      "module": "assign",
+      "url": "https://elearning.thanglong.edu.vn/mod/assign/view.php?id=51044",
+      "name": "KỲ 1_HOẠT ĐỘNG TRÊN LỚP TUẦN 3 (Tính điểm chuyên cần)",
+      "sectionId": "17913",
+      "sectionName": "Tuần 3. Định dạng văn bản có nhiều chương, mục",
+      "completionClass": "completioninfo completion_none",
+      "completionValue": "NaN"
+    },
+    {
+      "id": 51053,
+      "module": "feedback",
+      "url": "https://elearning.thanglong.edu.vn/mod/feedback/view.php?id=51053",
+      "name": "ĐÁNH GIÁ HOẠT ĐỘNG TRÊN LỚP TUẦN 3",
+      "sectionId": "17913",
+      "sectionName": "Tuần 3. Định dạng văn bản có nhiều chương, mục",
+      "completionClass": "completioninfo completion_none",
+      "completionValue": "NaN"
+    },
+    {
+      "id": 51065,
+      "module": "lesson",
+      "url": "https://elearning.thanglong.edu.vn/mod/lesson/view.php?id=51065",
+      "name": "[THÔNG SỐ ĐỊNH DẠNG] TÀI LIỆU CÓ NHIỀU CHƯƠNG, MỤC",
+      "sectionId": "17916",
+      "sectionName": "Tuần 4. Luyện tập định dạng văn bản có nhiều chương, mục",
+      "completionClass": "completioninfo completion_none",
+      "completionValue": "NaN"
+    },
+    {
+      "id": 51068,
+      "module": "assign",
+      "url": "https://elearning.thanglong.edu.vn/mod/assign/view.php?id=51068",
+      "name": "[LUYỆN TẬP KIỂM TRA THỰC HÀNH] TÀI LIỆU CÓ NHIỀU CHƯƠNG, MỤC",
+      "sectionId": "17916",
+      "sectionName": "Tuần 4. Luyện tập định dạng văn bản có nhiều chương, mục",
+      "completionClass": "completioninfo completion_incomplete",
+      "completionValue": "0"
+    },
+    {
+      "id": 51074,
+      "module": "assign",
+      "url": "https://elearning.thanglong.edu.vn/mod/assign/view.php?id=51074",
+      "name": "KỲ 1_HOẠT ĐỘNG TRÊN LỚP TUẦN 4 (Tính điểm chuyên cần)",
+      "sectionId": "17916",
+      "sectionName": "Tuần 4. Luyện tập định dạng văn bản có nhiều chương, mục",
+      "completionClass": "completioninfo completion_none",
+      "completionValue": "NaN"
+    },
+    {
+      "id": 51083,
+      "module": "feedback",
+      "url": "https://elearning.thanglong.edu.vn/mod/feedback/view.php?id=51083",
+      "name": "ĐÁNH GIÁ HOẠT ĐỘNG TRÊN LỚP TUẦN 4",
+      "sectionId": "17916",
+      "sectionName": "Tuần 4. Luyện tập định dạng văn bản có nhiều chương, mục",
+      "completionClass": "completioninfo completion_none",
+      "completionValue": "NaN"
+    },
+    {
+      "id": 51151,
+      "module": "lesson",
+      "url": "https://elearning.thanglong.edu.vn/mod/lesson/view.php?id=51151",
+      "name": "[LÝ THUYẾT + BÀI TẬP THỰC HÀNH] LÀM QUEN VỚI GIAO DIỆN POWERPOINT 365",
+      "sectionId": "17923",
+      "sectionName": "Tuần 6. Làm quen với Powerpoint",
+      "completionClass": "completioninfo completion_incomplete",
+      "completionValue": "0"
+    },
+    {
+      "id": 51184,
+      "module": "assign",
+      "url": "https://elearning.thanglong.edu.vn/mod/assign/view.php?id=51184",
+      "name": "KỲ 1_HOẠT ĐỘNG TRÊN LỚP TUẦN 6 (Tính điểm chuyên cần)",
+      "sectionId": "17923",
+      "sectionName": "Tuần 6. Làm quen với Powerpoint",
+      "completionClass": "completioninfo completion_none",
+      "completionValue": "NaN"
+    },
+    {
+      "id": 51193,
+      "module": "feedback",
+      "url": "https://elearning.thanglong.edu.vn/mod/feedback/view.php?id=51193",
+      "name": "ĐÁNH GIÁ HOẠT ĐỘNG TRÊN LỚP TUẦN 6",
+      "sectionId": "17923",
+      "sectionName": "Tuần 6. Làm quen với Powerpoint",
+      "completionClass": "completioninfo completion_none",
+      "completionValue": "NaN"
+    },
+    {
+      "id": 51245,
+      "module": "h5pactivity",
+      "url": "https://elearning.thanglong.edu.vn/mod/h5pactivity/view.php?id=51245",
+      "name": "[LÝ THUYẾT] NGUYÊN TẮC THIẾT KẾ SLIDE THUYẾT TRÌNH",
+      "sectionId": "17936",
+      "sectionName": "Tuần 7. Kỹ năng tạo bài thuyết trình",
+      "completionClass": "completioninfo completion_incomplete",
+      "completionValue": "0"
+    },
+    {
+      "id": 51272,
+      "module": "assign",
+      "url": "https://elearning.thanglong.edu.vn/mod/assign/view.php?id=51272",
+      "name": "KỲ 1_HOẠT ĐỘNG TRÊN LỚP TUẦN 7 (Tính điểm chuyên cần)",
+      "sectionId": "17936",
+      "sectionName": "Tuần 7. Kỹ năng tạo bài thuyết trình",
+      "completionClass": "completioninfo completion_none",
+      "completionValue": "NaN"
+    },
+    {
+      "id": 51281,
+      "module": "feedback",
+      "url": "https://elearning.thanglong.edu.vn/mod/feedback/view.php?id=51281",
+      "name": "ĐÁNH GIÁ HOẠT ĐỘNG TRÊN LỚP TUẦN 7",
+      "sectionId": "17936",
+      "sectionName": "Tuần 7. Kỹ năng tạo bài thuyết trình",
+      "completionClass": "completioninfo completion_none",
+      "completionValue": "NaN"
+    },
+    {
+      "id": 51290,
+      "module": "assign",
+      "url": "https://elearning.thanglong.edu.vn/mod/assign/view.php?id=51290",
+      "name": "[LUYỆN TẬP KIỂM TRA THỰC HÀNH] KỸ NĂNG TẠO BÀI THUYẾT TRÌNH",
+      "sectionId": "17939",
+      "sectionName": "Tuần 8. Luyện tập kỹ năng tạo bài thuyết trình",
+      "completionClass": "completioninfo completion_incomplete",
+      "completionValue": "0"
+    },
+    {
+      "id": 51296,
+      "module": "assign",
+      "url": "https://elearning.thanglong.edu.vn/mod/assign/view.php?id=51296",
+      "name": "KỲ 1_HOẠT ĐỘNG TRÊN LỚP TUẦN 8 (Tính điểm chuyên cần)",
+      "sectionId": "17939",
+      "sectionName": "Tuần 8. Luyện tập kỹ năng tạo bài thuyết trình",
+      "completionClass": "completioninfo completion_none",
+      "completionValue": "NaN"
+    },
+    {
+      "id": 51305,
+      "module": "feedback",
+      "url": "https://elearning.thanglong.edu.vn/mod/feedback/view.php?id=51305",
+      "name": "ĐÁNH GIÁ HOẠT ĐỘNG TRÊN LỚP TUẦN 8",
+      "sectionId": "17939",
+      "sectionName": "Tuần 8. Luyện tập kỹ năng tạo bài thuyết trình",
+      "completionClass": "completioninfo completion_none",
+      "completionValue": "NaN"
+    },
+    {
+      "id": 51112,
+      "module": "lesson",
+      "url": "https://elearning.thanglong.edu.vn/mod/lesson/view.php?id=51112",
+      "name": "[LÝ THUYẾT] MÁY TÍNH CƠ BẢN",
+      "sectionId": "17920",
+      "sectionName": "Tuần 10. Kỹ năng CNTT cơ bản",
+      "completionClass": "completioninfo completion_incomplete",
+      "completionValue": "0"
+    },
+    {
+      "id": 51351,
+      "module": "page",
+      "url": "https://elearning.thanglong.edu.vn/mod/page/view.php?id=51351",
+      "name": "HƯỚNG DẪN THIẾT LẬP NGÀY THÁNG NĂM VÀ CÁC DẤU TRONG EXCEL VỀ MẶC ĐỊNH",
+      "sectionId": "17946",
+      "sectionName": "Tuần 11. Làm quen với Excel",
+      "completionClass": "completioninfo completion_incomplete",
+      "completionValue": "0"
+    },
+    {
+      "id": 51393,
+      "module": "assign",
+      "url": "https://elearning.thanglong.edu.vn/mod/assign/view.php?id=51393",
+      "name": "KỲ 1_HOẠT ĐỘNG TRÊN LỚP TUẦN 11 (Tính điểm chuyên cần)",
+      "sectionId": "17946",
+      "sectionName": "Tuần 11. Làm quen với Excel",
+      "completionClass": "completioninfo completion_none",
+      "completionValue": "NaN"
+    },
+    {
+      "id": 51402,
+      "module": "feedback",
+      "url": "https://elearning.thanglong.edu.vn/mod/feedback/view.php?id=51402",
+      "name": "ĐÁNH GIÁ HOẠT ĐỘNG TRÊN LỚP TUẦN 11",
+      "sectionId": "17946",
+      "sectionName": "Tuần 11. Làm quen với Excel",
+      "completionClass": "completioninfo completion_none",
+      "completionValue": "NaN"
+    },
+    {
+      "id": 51417,
+      "module": "lesson",
+      "url": "https://elearning.thanglong.edu.vn/mod/lesson/view.php?id=51417",
+      "name": "[LÝ THUYẾT + BÀI TẬP THỰC HÀNH] KHÁI QUÁT HÀM TRONG EXCEL VÀ MỘT SỐ NHÓM HÀM ĐƠN GIẢN",
+      "sectionId": "17949",
+      "sectionName": "Tuần 12. Các hàm cơ bản trong Excel",
+      "completionClass": "completioninfo completion_incomplete",
+      "completionValue": "0"
+    },
+    {
+      "id": 51468,
+      "module": "feedback",
+      "url": "https://elearning.thanglong.edu.vn/mod/feedback/view.php?id=51468",
+      "name": "ĐÁNH GIÁ HOẠT ĐỘNG TRÊN LỚP TUẦN 12",
+      "sectionId": "17949",
+      "sectionName": "Tuần 12. Các hàm cơ bản trong Excel",
+      "completionClass": "completioninfo completion_none",
+      "completionValue": "NaN"
+    },
+    {
+      "id": 51483,
+      "module": "lesson",
+      "url": "https://elearning.thanglong.edu.vn/mod/lesson/view.php?id=51483",
+      "name": "[LÝ THUYẾT + BÀI TẬP THỰC HÀNH] XỬ LÝ DỮ LIỆU",
+      "sectionId": "17952",
+      "sectionName": "Tuần 13. Xử lý dữ liệu và tạo báo cáo trong Excel",
+      "completionClass": "completioninfo completion_incomplete",
+      "completionValue": "0"
+    },
+    {
+      "id": 51525,
+      "module": "feedback",
+      "url": "https://elearning.thanglong.edu.vn/mod/feedback/view.php?id=51525",
+      "name": "ĐÁNH GIÁ HOẠT ĐỘNG TRÊN LỚP TUẦN 13",
+      "sectionId": "17952",
+      "sectionName": "Tuần 13. Xử lý dữ liệu và tạo báo cáo trong Excel",
+      "completionClass": "completioninfo completion_none",
+      "completionValue": "NaN"
+    },
+    {
+      "id": 51330,
+      "module": "lesson",
+      "url": "https://elearning.thanglong.edu.vn/mod/lesson/view.php?id=51330",
+      "name": "[LÝ THUYẾT] TÌM KIẾM - SỬ DỤNG THÔNG TIN",
+      "sectionId": "17943",
+      "sectionName": "Tuần 14. Pháp luật trong môi trường số",
+      "completionClass": "completioninfo completion_incomplete",
+      "completionValue": "0"
+    },
+    {
+      "id": 51625,
+      "module": "assign",
+      "url": "https://elearning.thanglong.edu.vn/mod/assign/view.php?id=51625",
+      "name": "ĐỀ THI THỬ",
+      "sectionId": "17955",
+      "sectionName": "Tuần 15. Luyện thi",
+      "completionClass": "completioninfo completion_incomplete",
+      "completionValue": "0"
+    }
+  ]
+}

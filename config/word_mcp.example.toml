@@ -1,0 +1,6 @@
+[word_mcp]
+# Optional external Word MCP server.
+# Leave command empty to keep native python-docx rendering only.
+command =
+args =
+allowed_root = artifacts/generated

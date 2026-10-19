@@ -1,0 +1,830 @@
+{
+  "activity_id": 51068,
+  "title": "Notifications",
+  "artifact_type": "docx",
+  "requirements": [
+    {
+      "key": "instruction_1",
+      "description": "Thời gian làm: 40 phút + 5 phút nộp bài (SV tải Tiêu chí chấm điểm về xem)",
+      "value": null,
+      "metadata": {}
+    },
+    {
+      "key": "instruction_2",
+      "description": "Bạn nên bấm giờ trong lúc làm và làm lại nhiều lần đến khi thời gian làm ít hơn 40 phút",
+      "value": null,
+      "metadata": {}
+    },
+    {
+      "key": "instruction_3",
+      "description": "SV thực hiện các yêu cầu sau:",
+      "value": null,
+      "metadata": {}
+    },
+    {
+      "key": "instruction_4",
+      "description": "1. Trong ổ D, tạo thư mục có tên MSV_HoTen_LuyenTapKiemTraWord (Thay mã sinh viên và họ tên của bạn vào)",
+      "value": null,
+      "metadata": {}
+    },
+    {
+      "key": "instruction_5",
+      "description": "2. Tải các file dưới đây và lưu vào thư mục vừa tạo (Phải chuột >> Chọn Save link As / Lưu liên kết thành):",
+      "value": null,
+      "metadata": {}
+    },
+    {
+      "key": "instruction_6",
+      "description": "- File BÀI LÀM",
+      "value": null,
+      "metadata": {}
+    },
+    {
+      "key": "instruction_7",
+      "description": "- File mẫu THAM KHẢO",
+      "value": null,
+      "metadata": {}
+    },
+    {
+      "key": "instruction_8",
+      "description": "- Ảnh chèn vào bài làm",
+      "value": null,
+      "metadata": {}
+    },
+    {
+      "key": "instruction_9",
+      "description": "3. Mở thư mục chứa các file vừa tải >> Đổi tên file BaiLam_LuyenTap_BaiSo1.docx thành: MaSV_HoTen_LuyenTap_BaiSo1.docx (thay MSV, Họ tên của bạn vào)",
+      "value": null,
+      "metadata": {}
+    },
+    {
+      "key": "instruction_10",
+      "description": "4. Ứng dụng 11 bước đã học về định dạng văn bản có nhiều chương, mục để định dạng bài tiểu luận trong file vừa đổi tên.",
+      "value": null,
+      "metadata": {}
+    },
+    {
+      "key": "instruction_11",
+      "description": "- File bài làm đã được:",
+      "value": null,
+      "metadata": {}
+    },
+    {
+      "key": "instruction_12",
+      "description": "+ Sửa sẵn style Normal và các style Heading (bước 1);",
+      "value": null,
+      "metadata": {}
+    },
+    {
+      "key": "instruction_13",
+      "description": "+ Tạo sẵn style DoanVB, style Trừ và style Cộng (bước 3);",
+      "value": null,
+      "metadata": {}
+    },
+    {
+      "key": "instruction_14",
+      "description": "+ Thiết lập sẵn trang giấy (bước 4).",
+      "value": null,
+      "metadata": {}
+    },
+    {
+      "key": "instruction_15",
+      "description": "SV chỉ cần làm 8 bước còn lại trong 11 bước đã học.",
+      "value": null,
+      "metadata": {}
+    },
+    {
+      "key": "instruction_16",
+      "description": "- Tham khảo thông số bài tiểu luận TẠI ĐÂY (Phải chuột >> Chọn Open in new tab/ Mở liên kết trong thẻ mới).",
+      "value": null,
+      "metadata": {}
+    },
+    {
+      "key": "instruction_17",
+      "description": "- Liên tục lưu bài trong quá trình làm.",
+      "value": null,
+      "metadata": {}
+    },
+    {
+      "key": "instruction_18",
+      "description": "5. Sau khi làm xong hoặc gần hết giờ, SV nộp file Word bài làm tại mục này.",
+      "value": null,
+      "metadata": {}
+    },
+    {
+      "key": "document_table",
+      "description": "Include the table structure represented by the reference.",
+      "value": null,
+      "metadata": {
+        "table_count": 0,
+        "source": "artifacts\\week4\\Tiêu chí chấm điểm_TieuChiCham_Cau1_Word.pdf",
+        "evidence": "reference_tables"
+      }
+    },
+    {
+      "key": "captions",
+      "description": "Use captions for the illustrated/table content shown in the reference.",
+      "value": null,
+      "metadata": {
+        "captions": [
+          "Bảng biểu: 1"
+        ],
+        "source": "artifacts\\week4\\Tiêu chí chấm điểm_TieuChiCham_Cau1_Word.pdf",
+        "evidence": "reference_caption_paragraphs"
+      }
+    },
+    {
+      "key": "table_of_contents",
+      "description": "Include a table of contents.",
+      "value": true,
+      "metadata": {
+        "source": "artifacts\\week4\\Tiêu chí chấm điểm_TieuChiCham_Cau1_Word.pdf",
+        "evidence": "toc_field_or_explicit_text"
+      }
+    },
+    {
+      "key": "footnotes",
+      "description": "Include footnotes where required by the reference.",
+      "value": true,
+      "metadata": {
+        "source": "artifacts\\week4\\Tiêu chí chấm điểm_TieuChiCham_Cau1_Word.pdf",
+        "evidence": "footnote_part_or_explicit_text"
+      }
+    },
+    {
+      "key": "document_heading_structure",
+      "description": "Preserve the heading hierarchy found in the reference document.",
+      "value": null,
+      "metadata": {
+        "headings": [
+          "CHƯƠNG 1.\tGIỚI THIỆU VỀ CHIANG MAI",
+          "CHƯƠNG 2.\tCẨM NANG DU LỊCH CHIANG MAI"
+        ],
+        "source": "artifacts\\week4\\File BÀI LÀM_BaiLam_LuyenTap_BaiSo1.docx",
+        "evidence": "reference_heading_styles"
+      }
+    },
+    {
+      "key": "document_images",
+      "description": "Include the required image content represented by the reference.",
+      "value": null,
+      "metadata": {
+        "image_count": 1,
+        "source": "artifacts\\week4\\File BÀI LÀM_BaiLam_LuyenTap_BaiSo1.docx",
+        "evidence": "reference_images"
+      }
+    }
+  ],
+  "source_files": [
+    "artifacts\\week4\\Tiêu chí chấm điểm_TieuChiCham_Cau1_Word.pdf",
+    "artifacts\\week4\\File BÀI LÀM_BaiLam_LuyenTap_BaiSo1.docx",
+    "artifacts\\week4\\File mẫu THAM KHẢO_ThamKhao_LuyenTap_BaiSo1.pdf",
+    "artifacts\\week4\\Ảnh chèn vào bài làm_Picture_De1.jpg",
+    "artifacts\\week4\\TẠI ĐÂY_view.php"
+  ],
+  "content": {
+    "title": "Notifications",
+    "source_documents": [
+      "artifacts\\week4\\Tiêu chí chấm điểm_TieuChiCham_Cau1_Word.pdf",
+      "artifacts\\week4\\File BÀI LÀM_BaiLam_LuyenTap_BaiSo1.docx",
+      "artifacts\\week4\\File mẫu THAM KHẢO_ThamKhao_LuyenTap_BaiSo1.pdf",
+      "artifacts\\week4\\Ảnh chèn vào bài làm_Picture_De1.jpg"
+    ],
+    "sections": [
+      {
+        "level": 1,
+        "title": "CHƯƠNG 1.\tGIỚI THIỆU VỀ CHIANG MAI",
+        "source": "artifacts\\week4\\File BÀI LÀM_BaiLam_LuyenTap_BaiSo1.docx",
+        "children": []
+      },
+      {
+        "level": 1,
+        "title": "CHƯƠNG 2.\tCẨM NANG DU LỊCH CHIANG MAI",
+        "source": "artifacts\\week4\\File BÀI LÀM_BaiLam_LuyenTap_BaiSo1.docx",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "2.1. Thời điểm du lịch lý tưởng",
+        "source": "artifacts\\week4\\File mẫu THAM KHẢO_ThamKhao_LuyenTap_BaiSo1.pdf",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "2.2. Phương tiện",
+        "source": "artifacts\\week4\\File mẫu THAM KHẢO_ThamKhao_LuyenTap_BaiSo1.pdf",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "2.2.1. Phương tiện đến Chiang Mai",
+        "source": "artifacts\\week4\\File mẫu THAM KHẢO_ThamKhao_LuyenTap_BaiSo1.pdf",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "2.2.2. Các phương tiện di chuyển tại Chiang Mai",
+        "source": "artifacts\\week4\\File mẫu THAM KHẢO_ThamKhao_LuyenTap_BaiSo1.pdf",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "2.3. Địa điểm thăm quan",
+        "source": "artifacts\\week4\\File mẫu THAM KHẢO_ThamKhao_LuyenTap_BaiSo1.pdf",
+        "children": []
+      }
+    ],
+    "figures": [
+      {
+        "label": "Ảnh",
+        "caption": "Ảnh 1.1. Chiang Mai mùa hoa nở",
+        "source": "artifacts\\week4\\File mẫu THAM KHẢO_ThamKhao_LuyenTap_BaiSo1.pdf"
+      }
+    ],
+    "tables": [
+      {
+        "label": "Bảng",
+        "caption": "Bảng biểu: 1",
+        "rows": [],
+        "source": "artifacts\\week4\\Tiêu chí chấm điểm_TieuChiCham_Cau1_Word.pdf"
+      },
+      {
+        "label": "Bảng",
+        "caption": "Bảng 2.1. Những điểm thăm quan nổi tiếng",
+        "rows": [],
+        "source": "artifacts\\week4\\File mẫu THAM KHẢO_ThamKhao_LuyenTap_BaiSo1.pdf"
+      }
+    ],
+    "cover": null,
+    "include_toc": true,
+    "include_footnotes": true,
+    "include_landscape_section": false,
+    "metadata": {}
+  },
+  "layout": {
+    "page": {
+      "top_cm": 2.0,
+      "bottom_cm": 2.0,
+      "left_cm": 3.0,
+      "right_cm": 1.5,
+      "header_cm": 1.0,
+      "footer_cm": 1.0,
+      "orientation": "portrait"
+    },
+    "heading_styles": {
+      "1": {
+        "font_family": "Times New Roman",
+        "font_size_pt": 13.0,
+        "bold": true,
+        "italic": false,
+        "line_spacing": 1.3,
+        "space_before_pt": 6.0,
+        "space_after_pt": 6.0
+      },
+      "2": {
+        "font_family": "Times New Roman",
+        "font_size_pt": 13.0,
+        "bold": true,
+        "italic": false,
+        "line_spacing": 1.3,
+        "space_before_pt": 6.0,
+        "space_after_pt": 6.0
+      },
+      "3": {
+        "font_family": "Times New Roman",
+        "font_size_pt": 13.0,
+        "bold": true,
+        "italic": true,
+        "line_spacing": 1.3,
+        "space_before_pt": 6.0,
+        "space_after_pt": 6.0
+      }
+    },
+    "body_style": {
+      "font_family": "Times New Roman",
+      "font_size_pt": 13.0,
+      "bold": false,
+      "italic": false,
+      "line_spacing": 1.3,
+      "space_before_pt": 6.0,
+      "space_after_pt": 6.0
+    },
+    "caption_style": {
+      "font_family": "Times New Roman",
+      "font_size_pt": 13.0,
+      "bold": false,
+      "italic": true,
+      "line_spacing": 1.3,
+      "space_before_pt": 6.0,
+      "space_after_pt": 6.0
+    },
+    "multilevel_numbering": true,
+    "include_page_numbers": true,
+    "include_toc": true,
+    "include_illustration_lists": true,
+    "landscape_before_level": null,
+    "metadata": {}
+  },
+  "metadata": {
+    "description": "Thời gian làm: 40 phút + 5 phút nộp bài (SV tải Tiêu chí chấm điểm về xem)\n\n\nBạn nên bấm giờ trong lúc làm và làm lại nhiều lần đến khi thời gian làm ít hơn 40 phút\n\n \n\nSV thực hiện các yêu cầu sau:\n\n1. Trong ổ D, tạo thư mục có tên MSV_HoTen_LuyenTapKiemTraWord (Thay mã sinh viên và họ tên của bạn vào)\n\n2. Tải các file dưới đây và lưu vào thư mục vừa tạo (Phải chuột >> Chọn Save link As / Lưu liên kết thành):\n\n- File BÀI LÀM\n\n- File mẫu THAM KHẢO\n\n- Ảnh chèn vào bài làm\n\n3. Mở thư mục chứa các file vừa tải >> Đổi tên file BaiLam_LuyenTap_BaiSo1.docx thành: MaSV_HoTen_LuyenTap_BaiSo1.docx (thay MSV, Họ tên của bạn vào)\n\n4. Ứng dụng 11 bước đã học về định dạng văn bản có nhiều chương, mục để định dạng bài tiểu luận trong file vừa đổi tên.\n\n- File bài làm đã được:\n\n  + Sửa sẵn style Normal và các style Heading (bước 1);\n\n  + Tạo sẵn style DoanVB, style Trừ và style Cộng (bước 3);\n\n  + Thiết lập sẵn trang giấy (bước 4).\n\nSV chỉ cần làm 8 bước còn lại trong 11 bước đã học.\n\n- Tham khảo thông số bài tiểu luận TẠI ĐÂY (Phải chuột >> Chọn Open in new tab/ Mở liên kết trong thẻ mới).\n\n\n- Liên tục lưu bài trong quá trình làm.\n\n\n5. Sau khi làm xong hoặc gần hết giờ, SV nộp file Word bài làm tại mục này.",
+    "instruction_count": 18,
+    "reference_facts": [
+      {
+        "source": "artifacts\\week4\\Tiêu chí chấm điểm_TieuChiCham_Cau1_Word.pdf",
+        "type": "pdf",
+        "paragraph_count": 129,
+        "table_count": 0,
+        "image_count": 0,
+        "headings": [],
+        "tables": [],
+        "paragraphs": [
+          "Điểm bài báo cáo = 10 – Điểm trừ do lỗi sai",
+          "STT Nội dung Điểm trừ tối đa",
+          "Tên file: 0.5",
+          "- Chưa đổi tên 0.5",
+          "- Đặt tên sai cú pháp và không có thông tin SV trong tên file 0.5",
+          "- Đặt tên sai cú pháp nhưng vẫn có mã sinh viên và họ tên 0.25",
+          "Trang bìa: 1",
+          "- 2 dòng đầu sai Before – After/ chưa căn giữa (sai cả 2 lỗi trừ 0.5đ) 0.25",
+          "- Dòng đầu tiên không được in đậm/ chưa căn giữa 0.25",
+          "- Dòng tên trường chưa in đậm/ chưa căn giữa 0.25",
+          "- Chưa kẻ đường line 0.25",
+          "- Đường line sai màu/ sai kích thước chiều dài, độ dày/ chưa căn giữa dòng/ chưa giữ SHIFT khi kẻ nên không thẳng (sai từ 2 lỗi trừ 0.5đ) 0.25",
+          "- Logo sai kích thước/ chưa căn giữa (sai cả 2 lỗi trừ 0.5đ) 0.25",
+          "- Chữ “TIỂU LUẬN” sai cỡ chữ/ chưa căn giữa/ chưa in đậm (sai từ 2 lỗi trừ 0.5đ) 0.25",
+          "- Tên đề tài sai cỡ chữ/ ngắt dòng chưa hợp lý, chưa giống mẫu/ chưa căn giữa/ chưa in đậm (sai từ 2 lỗi trừ 0.5đ) 0.25",
+          "- Phần thông tin SV chưa đặt tab mà bấm tab thủ công hoặc bấm dấu cách thủ công 0.25",
+          "- Phần thông tin SV đặt sai vị trí tab 0.25",
+          "- Phần thông tin SV chưa viết chữ in hoa/ chưa in đậm 0.25",
+          "- Phần thông tin SV chưa thay thông tin cá nhân 0.25",
+          "- Phần thông tin SV căn sai lề/ chưa lệch về bên phải trang giấy 0.25",
+          "- Phần thông tin SV không đặt tab mà cho vào trong bảng 0.25",
+          "- Dòng HÀ NỘI chưa sát lề dưới/ chưa căn giữa/ chưa in đậm (sai từ 2 lỗi trừ 0.5đ) 0.25",
+          "- Dòng HÀ NỘI bị đẩy sang trang sau 0.25",
+          "- Khoảng cách giữa các dòng cách bằng ENTER thủ công  0.25",
+          "Mục lục: 1",
+          "- Dòng MỤC LỤC sai cỡ chữ/ sai Before - After/ thừa 1 dòng trống ở trên hoặc dưới/ chưa căn giữa/ chưa in đậm 0.25",
+          "TIÊU CHÍ ĐÁNH GIÁ BÁO CÁO, TÀI LIỆU CÓ NHIỀU CHƯƠNG, MỤC",
+          "1",
+          "2",
+          "3",
+          "1/4",
+          "STT Nội dung Điểm trừ tối đa",
+          "1",
+          "- Sai thông số của 1 style TOC bất kỳ 0.25",
+          "- Sai thông số từ 2 style TOC trở lên 0.5",
+          "- Chưa cập nhật lại số trang của các dòng mục lục 0.25",
+          "- Tự gõ tay nội dung mục lục 1",
+          "- Chưa chèn nội dung mục lục mà mới chỉ định dạng dòng MỤC LỤC 1",
+          "- Bấm ENTER thủ công nhiều lần để đẩy dòng DANH MỤC MINH HỌA sang trang mới 0.25",
+          "Danh mục minh họa: 1",
+          "- Dòng DANH MỤC MINH HỌA sai cỡ chữ/ sai Before - After/ thừa 1 dòng trống ở trên hoặc dưới/ chưa căn giữa/ chưa in đậm 0.5",
+          "- Chưa xóa dòng trống thừa giữa các dòng danh mục 0.25",
+          "- Các dòng danh mục sai Before - After 0.25",
+          "- Chưa cập nhật lại số trang của các dòng danh mục 0.25",
+          "- Thiếu 1 trong 3 danh mục 0.25",
+          "- Tự gõ tay nội dung danh mục 1",
+          "- Chưa chèn nội dung danh mục mà mới chỉ định dạng dòng DANH MỤC MINH HỌA 1",
+          "Multilevel List: 1",
+          "- Chưa áp dụng Multilevel List cho các dòng đề mục 1",
+          "- Chọn sai kiểu Multilevel List 0.5",
+          "- Sai thông số của 1 trong 3 level trong bảng Adjust List Indent 0.25",
+          "- Sai thông số từ 2 level trong bảng Adjust List Indent trở lên 0.5",
+          "- Thiếu dấu chấm sau số thứ tự của các cấp đề mục 0.25",
+          "Số trang: 1",
+          "- Chưa đánh số trang 1",
+          "- Tự gõ số trang mà không dùng chức năng Page Number 1",
+          "- Có dùng chức năng Page Number nhưng số trang sai 0.5",
+          "Áp dụng style cho các đoạn: 1.25",
+          "- Các dòng đề mục cấp 1 chưa chọn style Heading 1 0.25",
+          "6",
+          "7",
+          "5",
+          "3",
+          "4",
+          "2/4",
+          "STT Nội dung Điểm trừ tối đa",
+          "1",
+          "- Các dòng đề mục cấp 2 chưa chọn style Heading 2 0.25",
+          "- Các dòng đề mục cấp 3 chưa chọn style Heading 3 0.25",
+          "- Các đoạn văn không có gạch đầu dòng chưa chọn style DoanVB 0.25",
+          "- Các đoạn văn có dấu trừ đầu dòng chưa chọn style Trừ 0.25",
+          "- Các đoạn văn có dấu cộng đầu dòng chưa chọn style Cộng 0.25",
+          "- Một số đoạn chọn sót style 0.25 --> 0.5",
+          "- Một số đoạn chọn sai style 0.25 --> 1",
+          "Bảng biểu: 1",
+          "- Chưa định dạng gì 1",
+          "- Bảng chưa căn giữa trang giấy 0.25",
+          "- Bảng chưa chọn style Normal 0.25",
+          "- Dòng tiêu đề chưa in đậm/ chưa căn giữa dòng/ chưa tô nền/ chưa chọn Repeat Header Row (sai từ 2 lỗi trừ 0.5đ) 0.25",
+          "- Chưa căn giữa theo chiều dọc dữ liệu trong ô 0.25",
+          "- Căn giữa theo chiều ngang toàn bộ dữ liệu trong bảng 0.25",
+          "- Sai Before - After - Line Spacing 0.25",
+          "Ảnh: 0.75",
+          "- Chưa chèn ảnh 0.5",
+          "- Chưa căn giữa trang giấy/ chưa chọn style Normal/ chưa chọn Picture Style (sai từ 2 lỗi trừ 0.5đ) 0.25",
+          "- Chưa chọn Inline with Text 0.25",
+          "- Chọn sai kiểu Picture Style 0.25",
+          "SmartArt: 1",
+          "- Chưa chèn SmartArt 1",
+          "- Chưa căn giữa trang giấy/ chưa chọn style Normal/ sai màu/ sai font chữ, cỡ chữ 0.25",
+          "- Chưa chọn Inline with Text 0.25",
+          "- Sai kiểu SmartArt 0.5",
+          "- Không chèn SmartArt mà chèn các shape 1",
+          "7",
+          "8",
+          "9",
+          "10",
+          "3/4",
+          "STT Nội dung Điểm trừ tối đa",
+          "1",
+          "- Thiếu nội dung trong SmartArt 0.5",
+          "Quay ngang giấy: 0.5",
+          "- Chưa quay ngang giấy 0.5",
+          "- Quay sai nội dung 0.25",
+          "- Quay thiếu nội dung 0.25",
+          "Caption: 1",
+          "- Chưa chèn/ Gõ tay thủ công 1",
+          "- Chưa sửa style Caption 0.5",
+          "- Sai một hoặc hai thông số trong style Caption (chưa căn giữa dòng/ sai màu chữ/ sai Before - After) 0.25",
+          "- Sai vị trí caption Bảng 0.25",
+          "- Sai số thứ tự 1 caption bất kỳ do tự gõ tay 0.25",
+          "- Sai số thứ tự từ 2 caption trở lên do tự gõ tay 0.5",
+          "- Chưa chèn 1 trong 3 caption 0.25",
+          "Footnote: 0.5",
+          "- Chưa chèn Footnote 0.5",
+          "- Nhập sai nội dung Footnote 0.25",
+          "- Chèn sai vị trí Footnote 0.25",
+          "Kết cấu bài:",
+          "- Sai kích thước đối tượng làm thay đổi kết cấu bài 0.25",
+          "- Thừa dấu cách ENTER giữa một số đoạn 0.25",
+          "- Thừa 1 trang trắng 0.25",
+          "- Thừa từ 2 trang trắng trở lên 0.5",
+          "15 Nộp bài muộn: 0.5",
+          "14",
+          "12",
+          "13",
+          "10",
+          "11",
+          "4/4"
+        ],
+        "hints": {
+          "headings": [],
+          "captions": [
+            "Bảng biểu: 1"
+          ],
+          "has_toc": true,
+          "has_footnotes": true,
+          "has_landscape_section": false
+        },
+        "sections": []
+      },
+      {
+        "source": "artifacts\\week4\\File BÀI LÀM_BaiLam_LuyenTap_BaiSo1.docx",
+        "type": "docx",
+        "paragraph_count": 34,
+        "table_count": 1,
+        "image_count": 1,
+        "headings": [
+          "CHƯƠNG 1.\tGIỚI THIỆU VỀ CHIANG MAI",
+          "CHƯƠNG 2.\tCẨM NANG DU LỊCH CHIANG MAI"
+        ],
+        "tables": [
+          [
+            [
+              "Địa danh",
+              "Mô tả"
+            ],
+            [
+              "Chùa Chedi Luang",
+              "Được xây dựng từ năm 1401 dưới thời vua Saeng Muang Ma. Công trình tâm linh nổi bật này chính là biểu tượng của thành phố Chiang Mai, sở hữu nét kiến trúc vô cùng độc đáo, hoạ tiết tinh xảo mang đậm văn hoá Lanna ngày xưa."
+            ],
+            [
+              "Thảo cầm viên Chiang Mai",
+              "Đây là nơi nuôi dưỡng cũng như bảo tồn nhiều loại động vật quý hiếm. Đến đây ta có thể chiêm ngưỡng nhiều loại động vật quý hiếm như: Tê giác, gấu trúc,... Ngoài ra nơi đây còn có cả một công viên thuỷ sinh giúp bạn chiêm ngưỡng thêm nhiều loài động vật dưới nước khác."
+            ],
+            [
+              "Phố đi bộ Chiang Mai",
+              "Phố đi bộ Chiang Mai khá giống với khu vực phố đi bộ tại Việt Nam, đặc biệt sẽ đông đúc vào buổi tối và cả dịp cuối tuần. Tại đây ta có thể thỏa sức đi dạo hay mua sắm nhiều loại đồ lưu niệm, đồ trang sức cùng với đó là thưởng thức các tiết mục văn nghệ đường phố vô cùng sôi động."
+            ],
+            [
+              "Vườn ươm xương rồng",
+              "Nghe thì chẳng có gì thú vị phải không! Ngoài việc tại đây có trồng đến hàng nghìn loại xương rồng khác nhau, đủ mọi hình dáng cho đến kích thước cho chúng ta chiêm ngưỡng."
+            ],
+            [
+              "Làng cổ dài Karen",
+              "Nếu muốn biết thêm một nét văn hoá khác tại Chiang Mai, ta có thể ghé thăm làng cổ dài Karen. Nơi đây có những người phụ nữ ngay từ khi tấm bé đã đeo những chiếc vòng từ bạc hay đồng, qua thời gian số lượng vòng đeo sẽ tăng lên và làm cổ họ dài ra."
+            ],
+            [
+              "Lễ hội té nước Songkran",
+              "Là lễ hội truyền thống của người Thái, tổ chức từ 13/4-15/4 mang ý nghĩa chào đón năm mới. Tại đây ta sẽ có những màn tạt nước vào người khác bằng xô, chậu, ca, súng nước,... cực kỳ sôi động."
+            ],
+            [
+              "Đền Ton Kwen",
+              "Là một ngôi đền cổ linh thiêng gắn liền với nhiều thời điểm lịch sử thăng trầm tại Chiang Mai. Có kiến trúc vô cùng độc đáo và sẽ là địa điểm tham quan không thể bỏ qua cho mọi du khách."
+            ]
+          ]
+        ],
+        "paragraphs": [
+          "BỘ GIÁO DỤC VÀ ĐÀO TẠO",
+          "TRƯỜNG ĐẠI HỌC THĂNG LONG",
+          "TIỂU LUẬN",
+          "CHIANG MAI ĐÓA HỒNG PHƯƠNG BẮC XỨ CHÙA VÀNG",
+          "SINH VIÊN THỰC HIỆN: HỌ TÊN CỦA SINH VIÊN",
+          "MÃ SINH VIÊN: MÃ CỦA SINH VIÊN",
+          "NGÀNH: NGÀNH CỦA SINH VIÊN",
+          "HÀ NỘI - 2026",
+          "MỤC LỤC",
+          "DANH MỤC MINH HỌA",
+          "CHƯƠNG 1.\tGIỚI THIỆU VỀ CHIANG MAI",
+          "Chiang Mai được mệnh danh là “Đoá hồng phương Bắc”, là tỉnh lớn thứ 2 tại Thái Lan và nằm cách thủ đô Bangkok khoảng 800km. Nơi đây từng là thủ đô của Lanna. Chiang Mai sở hữu vị trí vô cùng quan trọng khi tọa lạc trên tuyến đường trao đổi hàng hoá từ Trung Hoa sang tận Tây Á.",
+          "Từng là thủ đô của một vương quốc hùng mạnh trong nhiều thế kỉ, ngày nay, thành phố Chiang Mai vẫn tiếp tục đóng vai trò là đầu tàu cho toàn bộ vùng lãnh thổ ở phía Bắc Thái Lan, một trong những vùng còn kém phát triển về kinh tế nhưng khá ổn định về chính trị (ngoại trừ sự bất ổn ở một phần lãnh thổ Thái Lan thuộc Tam giác vàng, nhưng với sự quyết tâm của chính phủ Thái, việc đầu hàng của thủ lĩnh Khun Sa, sự hoạt động cầm chừng, lẻ tẻ và ngày càng phân tán của các tập đoàn thuốc phiện, người ta cho rằng giai đoạn thiếu ổn định về chính trị của khu vực này đã trôi qua).",
+          "Chiang Mai hiện nay là một địa điểm du lịch vô cùng nổi tiếng với thế mạnh về sinh thái cùng nhiều công trình mang ý nghĩa lịch sử to lớn. Chính điều này đã thu hút nhiều du khách không chỉ từ Việt Nam mà còn cả trên thế giới lựa chọn Chiang Mai làm điểm đến cho mình. Vậy khi du lịch Chiang Mai tự túc thì cần biết những gì?",
+          "CHƯƠNG 2.\tCẨM NANG DU LỊCH CHIANG MAI",
+          "2.1. Thời điểm du lịch lý tưởng",
+          "Nên chọn du lịch Chiang Mai tự túc vào tháng mấy sẽ là tốt nhất! Theo kinh nghiệm từ nhiều người thì ta nên đi Chiang Mai từ tháng 11 đến tháng 4 là lý tưởng nhất. Lúc này tại Chiang Mai sẽ có thời tiết khá mát mẻ, nắng không quá gắt và trời lại ít mưa.",
+          "Đặc biệt đây cũng là mùa lễ hội tại Chiang Mai với nhiều hoạt động như: Lễ Loy Krathong, Lễ Yi Peng, lễ hội hoa tháng 2, lễ hội té nước Songkran,... cho ta thỏa sức trải nghiệm. Tuy nhiên đây cũng là mùa cao điểm tại Chiang Mai nên cần lưu ý đặt vé máy bay và khách sạn từ sớm nhé.",
+          "2.2. Phương tiện",
+          "2.2.1. Phương tiện đến Chiang Mai",
+          "Để du lịch Chiang Mai tự túc nhanh nhất thì chắc chắn là đi bằng đường hàng không. Hiện nay có rất nhiều chuyến bay thẳng đến Chiang Mai từ TPHCM, Hà Nội, Đà Nẵng, ta nên đặt vé máy bay Chiang Mai từ sớm để có mức giá vé tốt nhất nhé!",
+          "Bạn có thể lựa chọn nhiều hãng hàng không uy tín như:",
+          "- Vietjet Air;",
+          "- Airasia;",
+          "- Bangkok Airway;",
+          "- Thai AirAsia...",
+          "Giá vé cho chặng nay này chỉ từ 2.500.000 đến 4.000.000/vé, thời gian bay chỉ là từ 2 tiếng là đến nhé.",
+          "2.2.2. Các phương tiện di chuyển tại Chiang Mai",
+          "- Xe Song Taew;",
+          "- Xe Tuk Tuk;",
+          "- Taxi;",
+          "- Xe máy.",
+          "2.3. Địa điểm thăm quan",
+          "Đừng tưởng chỉ nhiêu đây là hết nhé, khi du lịch Chiang Mai tự túc bạn còn có thể ghé qua nhiều địa điểm nổi tiếng như: Chùa Phrathat Doi Suthep, Chùa Trắng - Wat Rong Khun, chợ đêm Bazaar, Grand Canyon, Trại voi Mae Sa, Đền Umong, Phu Ping Palace, Chùa Phra Singh,..."
+        ],
+        "hints": {
+          "headings": [
+            "CHƯƠNG 1.\tGIỚI THIỆU VỀ CHIANG MAI",
+            "CHƯƠNG 2.\tCẨM NANG DU LỊCH CHIANG MAI"
+          ],
+          "captions": [],
+          "has_toc": false,
+          "has_footnotes": true,
+          "has_landscape_section": false
+        },
+        "sections": [
+          {
+            "orientation": "portrait",
+            "page_width_twips": 11907,
+            "page_height_twips": 16840,
+            "margins_twips": {
+              "top": 1134,
+              "bottom": 1134,
+              "left": 1701,
+              "right": 851
+            }
+          }
+        ]
+      },
+      {
+        "source": "artifacts\\week4\\File mẫu THAM KHẢO_ThamKhao_LuyenTap_BaiSo1.pdf",
+        "type": "pdf",
+        "paragraph_count": 105,
+        "table_count": 0,
+        "image_count": 0,
+        "headings": [
+          "CHƯƠNG 1. GIỚI THIỆU VỀ CHIANG MAI",
+          "CHƯƠNG 2. CẨM NANG DU LỊCH CHIANG MAI",
+          "2.1. Thời điểm du lịch lý tưởng",
+          "2.2. Phương tiện",
+          "2.2.1. Phương tiện đến Chiang Mai",
+          "2.2.2. Các phương tiện di chuyển tại Chiang Mai",
+          "2.3. Địa điểm thăm quan"
+        ],
+        "tables": [],
+        "paragraphs": [
+          "BỘ GIÁO DỤC VÀ ĐÀO TẠO",
+          "TRƯỜNG ĐẠI HỌC THĂNG LONG",
+          "TIỂU LUẬN",
+          "CHIANG MAI",
+          "ĐÓA HỒNG PHƯƠNG BẮC XỨ CHÙA VÀNG",
+          "SINH VIÊN THỰC HIỆN:  HỌ TÊN CỦA SINH VIÊN",
+          "MÃ SINH VIÊN:  MÃ CỦA SINH VIÊN",
+          "NGÀNH:  NGÀNH CỦA SINH VIÊN",
+          "HÀ NỘI - 2026",
+          "MỤC LỤC",
+          "CHƯƠNG 1. GIỚI THIỆU VỀ CHIANG MAI ......................................................... 1",
+          "CHƯƠNG 2. CẨM NANG DU LỊCH CHIANG MAI ............................................... 2",
+          "2.1. Thời điểm du lịch lý tưởng .................................................................................. 2",
+          "2.2. Phương tiện ........................................................................................................... 2",
+          "2.2.1. Phương tiện đến Chiang Mai ........................................................................... 2",
+          "2.2.2. Các phương tiện di chuyển tại Chiang Mai ..................................................... 2",
+          "2.3. Địa điểm thăm quan ............................................................................................. 3",
+          "DANH MỤC MINH HỌA",
+          "Ảnh 1.1. Chiang Mai mùa hoa nở ....................................................................................... 1",
+          "Bảng 2.1. Những điểm thăm quan nổi tiếng ........................................................................ 3",
+          "1",
+          "CHƯƠNG 1. GIỚI THIỆU VỀ CHIANG MAI",
+          "Chiang Mai được mệnh danh là “Đoá h ồng phương Bắc”, là tỉnh lớn thứ 2 tại Thái",
+          "Lan và n ằm cách th ủ đô Bangkok kho ảng 800km. Nơi đây t ừng là th ủ đô của Lanna 1.",
+          "Chiang Mai s ở hữu vị trí vô cùng quan tr ọng khi t ọa lạc trên tuy ến đường trao đổi hàng",
+          "hoá từ Trung Hoa sang tận Tây Á.",
+          "Từng là thủ đô của một vương quốc hùng mạnh trong nhiều thế kỉ, ngày nay, thành",
+          "phố Chiang Mai vẫn tiếp tục đóng vai trò là đầu tàu cho toàn bộ vùng lãnh thổ ở phía Bắc",
+          "Thái Lan, một trong những vùng còn kém phát triển về kinh tế nhưng khá ổn định về chính",
+          "trị (ngoại trừ sự bất ổn ở một phần lãnh thổ Thái Lan thuộc Tam giác vàng, nhưng v ới sự",
+          "quyết tâm c ủa chính ph ủ Thái, việc đầu hàng c ủa thủ lĩnh Khun Sa, s ự hoạt động cầm",
+          "chừng, lẻ tẻ và ngày càng phân tán c ủa các tập đoàn thuốc phiện, người ta cho r ằng giai",
+          "đoạn thiếu ổn định về chính trị của khu vực này đã trôi qua).",
+          "Ảnh 1.1. Chiang Mai mùa hoa nở",
+          "Chiang Mai hiện nay là một địa điểm du lịch vô cùng nổi tiếng với thế mạnh về sinh",
+          "thái cùng nhiều công trình mang ý nghĩa lịch sử to lớn. Chính điều này đã thu hút nhiều du",
+          "khách không chỉ từ Việt Nam mà còn cả trên thế giới lựa chọn Chiang Mai làm điểm đến",
+          "cho mình. Vậy khi du lịch Chiang Mai tự túc thì cần biết những gì?",
+          "1 Một quốc gia cổ đại tồn tại từ TK 13 đến cuối TK 18",
+          "2",
+          "CHƯƠNG 2. CẨM NANG DU LỊCH CHIANG MAI",
+          "2.1. Thời điểm du lịch lý tưởng",
+          "Nên chọn du lịch Chiang Mai tự túc vào tháng mấy sẽ là tốt nhất! Theo kinh nghiệm",
+          "từ nhiều người thì ta nên đi Chiang Mai từ tháng 11 đến tháng 4 là lý tưởng nhất. Lúc này",
+          "tại Chiang Mai sẽ có thời tiết khá mát mẻ, nắng không quá gắt và trời lại ít mưa.",
+          "Đặc biệt đây cũng là mùa l ễ hội tại Chiang Mai v ới nhiều hoạt động như: L ễ Loy",
+          "Krathong, Lễ Yi Peng, lễ hội hoa tháng 2, l ễ hội té nước Songkran,... cho ta thỏa sức trải",
+          "nghiệm. Tuy nhiên đây cũng là mùa cao điểm tại Chiang Mai nên cần lưu ý đặt vé máy bay",
+          "và khách sạn từ sớm nhé.",
+          "2.2. Phương tiện",
+          "2.2.1. Phương tiện đến Chiang Mai",
+          "Để du lịch Chiang Mai tự túc nhanh nhất thì chắc chắn là đi bằng đường hàng không.",
+          "Hiện nay có rất nhiều chuyến bay thẳng đến Chiang Mai từ TPHCM, Hà Nội, Đà Nẵng, ta",
+          "nên đặt vé máy bay Chiang Mai từ sớm để có mức giá vé tốt nhất nhé!",
+          "Bạn có thể lựa chọn nhiều hãng hàng không uy tín như:",
+          "− Vietjet Air;",
+          "− Airasia;",
+          "− Bangkok Airway;",
+          "− Thai AirAsia...",
+          "Giá vé cho chặng nay này chỉ từ 2.500.000 đến 4.000.000/vé, thời gian bay chỉ là từ",
+          "2 tiếng là đến nhé.",
+          "2.2.2. Các phương tiện di chuyển tại Chiang Mai",
+          "− Xe Song Taew;",
+          "− Xe Tuk Tuk;",
+          "− Taxi;",
+          "− Xe máy.",
+          "3",
+          "2.3. Địa điểm thăm quan",
+          "Bảng 2.1. Những điểm thăm quan nổi tiếng",
+          "Địa danh Mô tả",
+          "Chùa Chedi Luang",
+          "Được xây dựng từ năm 1401 dưới thời vua Saeng Muang Ma. Công trình tâm linh n ổi",
+          "bật này chính là bi ểu tượng của thành phố Chiang Mai, s ở hữu nét kiến trúc vô cùng",
+          "độc đáo, hoạ tiết tinh xảo mang đậm văn hoá Lanna ngày xưa.",
+          "Thảo cầm viên Chiang Mai",
+          "Đây là nơi nuôi dưỡng cũng như bảo tồn nhiều loại động vật quý hiếm. Đến đây ta có",
+          "thể chiêm ngưỡng nhiều loại động vật quý hiếm như: Tê giác, gấu trúc,... Ngoài ra nơi",
+          "đây còn có c ả một công viên thu ỷ sinh giúp bạn chiêm ngưỡng thêm nhiều loài động",
+          "vật dưới nước khác.",
+          "Phố đi bộ Chiang Mai",
+          "Phố đi bộ Chiang Mai khá giống với khu vực phố đi bộ tại Việt Nam, đặc biệt sẽ đông",
+          "đúc vào bu ổi tối và c ả dịp cuối tuần. Tại đây ta có th ể thỏa sức đi d ạo hay mua s ắm",
+          "nhiều loại đồ lưu niệm, đồ trang sức cùng với đó là thưởng thức các tiết mục văn nghệ",
+          "đường phố vô cùng sôi động.",
+          "Vườn ươm xương rồng",
+          "Nghe thì chẳng có gì thú vị phải không! Ngoài việc tại đây có trồng đến hàng nghìn loại",
+          "xương r ồng khác nhau, đ ủ mọi hình dáng cho đ ến kích thư ớc cho chúng ta chiêm",
+          "ngưỡng.",
+          "Làng cổ dài Karen",
+          "Nếu muốn biết thêm một nét văn hoá khác tại Chiang Mai, ta có th ể ghé thăm làng cổ",
+          "dài Karen. Nơi đây có những người phụ nữ ngay từ khi tấm bé đã đeo những chiếc vòng",
+          "từ bạc hay đồng, qua thời gian số lượng vòng đeo sẽ tăng lên và làm cổ họ dài ra.",
+          "4",
+          "Địa danh Mô tả",
+          "Lễ hội té nước Songkran",
+          "Là lễ hội truyền thống của người Thái, t ổ chức từ 13/4-15/4 mang ý nghĩa chào đón",
+          "năm mới. Tại đây ta sẽ có những màn tạt nước vào người khác bằng xô, chậu, ca, súng",
+          "nước,... cực kỳ sôi động.",
+          "Đền Ton Kwen",
+          "Là một ngôi đ ền cổ linh thiêng g ắn liền v ới nhi ều thời điểm lịch s ử thăng trầm tại",
+          "Chiang Mai. Có ki ến trúc vô cùng đ ộc đáo và s ẽ là địa điểm tham quan không th ể bỏ",
+          "qua cho mọi du khách.",
+          "Đừng tưởng chỉ nhiêu đây là hết nhé, khi du lịch Chiang Mai tự túc bạn còn có thể ghé qua nhiều địa điểm nổi tiếng như: Chùa Phrathat",
+          "Doi Suthep, Chùa Tr ắng - Wat Rong Khun, ch ợ đêm Bazaar, Grand Canyon, Tr ại voi Mae Sa, Đ ền Umong, Phu Ping Palace, Chùa Phra",
+          "Singh,..."
+        ],
+        "hints": {
+          "headings": [
+            "CHƯƠNG 1. GIỚI THIỆU VỀ CHIANG MAI",
+            "CHƯƠNG 2. CẨM NANG DU LỊCH CHIANG MAI",
+            "2.1. Thời điểm du lịch lý tưởng",
+            "2.2. Phương tiện",
+            "2.2.1. Phương tiện đến Chiang Mai",
+            "2.2.2. Các phương tiện di chuyển tại Chiang Mai",
+            "2.3. Địa điểm thăm quan"
+          ],
+          "captions": [
+            "Ảnh 1.1. Chiang Mai mùa hoa nở",
+            "Bảng 2.1. Những điểm thăm quan nổi tiếng"
+          ],
+          "has_toc": true,
+          "has_footnotes": false,
+          "has_landscape_section": false
+        },
+        "sections": []
+      },
+      {
+        "source": "artifacts\\week4\\Ảnh chèn vào bài làm_Picture_De1.jpg",
+        "type": "image",
+        "paragraph_count": 0,
+        "table_count": 0,
+        "image_count": 1,
+        "headings": [],
+        "tables": [],
+        "paragraphs": [],
+        "hints": {
+          "headings": [],
+          "captions": [],
+          "has_toc": false,
+          "has_footnotes": false,
+          "has_landscape_section": false
+        },
+        "sections": []
+      }
+    ],
+    "content_specification": {
+      "title": "Notifications",
+      "source_documents": [
+        "artifacts\\week4\\Tiêu chí chấm điểm_TieuChiCham_Cau1_Word.pdf",
+        "artifacts\\week4\\File BÀI LÀM_BaiLam_LuyenTap_BaiSo1.docx",
+        "artifacts\\week4\\File mẫu THAM KHẢO_ThamKhao_LuyenTap_BaiSo1.pdf",
+        "artifacts\\week4\\Ảnh chèn vào bài làm_Picture_De1.jpg"
+      ],
+      "sections": [
+        {
+          "level": 1,
+          "title": "CHƯƠNG 1.\tGIỚI THIỆU VỀ CHIANG MAI",
+          "source": "artifacts\\week4\\File BÀI LÀM_BaiLam_LuyenTap_BaiSo1.docx",
+          "children": []
+        },
+        {
+          "level": 1,
+          "title": "CHƯƠNG 2.\tCẨM NANG DU LỊCH CHIANG MAI",
+          "source": "artifacts\\week4\\File BÀI LÀM_BaiLam_LuyenTap_BaiSo1.docx",
+          "children": []
+        },
+        {
+          "level": 2,
+          "title": "2.1. Thời điểm du lịch lý tưởng",
+          "source": "artifacts\\week4\\File mẫu THAM KHẢO_ThamKhao_LuyenTap_BaiSo1.pdf",
+          "children": []
+        },
+        {
+          "level": 2,
+          "title": "2.2. Phương tiện",
+          "source": "artifacts\\week4\\File mẫu THAM KHẢO_ThamKhao_LuyenTap_BaiSo1.pdf",
+          "children": []
+        },
+        {
+          "level": 3,
+          "title": "2.2.1. Phương tiện đến Chiang Mai",
+          "source": "artifacts\\week4\\File mẫu THAM KHẢO_ThamKhao_LuyenTap_BaiSo1.pdf",
+          "children": []
+        },
+        {
+          "level": 3,
+          "title": "2.2.2. Các phương tiện di chuyển tại Chiang Mai",
+          "source": "artifacts\\week4\\File mẫu THAM KHẢO_ThamKhao_LuyenTap_BaiSo1.pdf",
+          "children": []
+        },
+        {
+          "level": 2,
+          "title": "2.3. Địa điểm thăm quan",
+          "source": "artifacts\\week4\\File mẫu THAM KHẢO_ThamKhao_LuyenTap_BaiSo1.pdf",
+          "children": []
+        }
+      ],
+      "figures": [
+        {
+          "label": "Ảnh",
+          "caption": "Ảnh 1.1. Chiang Mai mùa hoa nở",
+          "source": "artifacts\\week4\\File mẫu THAM KHẢO_ThamKhao_LuyenTap_BaiSo1.pdf"
+        }
+      ],
+      "tables": [
+        {
+          "label": "Bảng",
+          "caption": "Bảng biểu: 1",
+          "rows": [],
+          "source": "artifacts\\week4\\Tiêu chí chấm điểm_TieuChiCham_Cau1_Word.pdf"
+        },
+        {
+          "label": "Bảng",
+          "caption": "Bảng 2.1. Những điểm thăm quan nổi tiếng",
+          "rows": [],
+          "source": "artifacts\\week4\\File mẫu THAM KHẢO_ThamKhao_LuyenTap_BaiSo1.pdf"
+        }
+      ],
+      "cover": null,
+      "include_toc": true,
+      "include_footnotes": true,
+      "include_landscape_section": false,
+      "metadata": {}
+    }
+  }
+}
